@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-import org.bitcoinj.core.Address;
+import org.bitcoinj.core.Address;1C2Q3eUsMsgpSNYfGwmXUk7UJ46H8hXhwZ
 import org.bitcoinj.core.DumpedPrivateKey;
 import org.bitcoinj.core.ECKey;
 import org.bitcoinj.core.NetworkParameters;
